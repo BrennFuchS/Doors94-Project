@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - Body
+  - COG
+  - Dashboard
+  - MapCamera
+  - ITEM
+  - DontPickThis
+  - PART
+  - MOUSE_PICK
+  - TOOL
+  - Trigger
+  - Cargo
+  - Fire
+  - StagingWheel
+  - RAGDOLL
+  - Gravel
+  - Grass
+  - Concrete
+  - Wood
+  - Extra
+  - Grill
+  - Wet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Road
+  - HingedObjects
+  - Terrain
+  - DontCollide
+  - Bolts
+  - Dashboard
+  - GUI
+  - Tools
+  - Wheel
+  - Collider
+  - Datsun
+  - Parts
+  - Player
+  - Lifter
+  - Collider2
+  - PlayerOnlyColl
+  - Cloud
+  - Glass
+  - Forest
+  - NoRain
+  - TriggerOnly
+  - LineRenderer
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
