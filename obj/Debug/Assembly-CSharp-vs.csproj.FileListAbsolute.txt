@@ -16,3 +16,18 @@ F:\Doors94 Project\obj\Debug\Assembly-CSharp-vs.csproj.CoreCompileInputs.cache
 F:\Doors94 Project\obj\Debug\Assembly-CSharp-vs.csproj.CopyComplete
 F:\Doors94 Project\obj\Debug\Assembly-CSharp.dll
 F:\Doors94 Project\obj\Debug\Assembly-CSharp.pdb
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\Assembly-CSharp.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\UnityEditor.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\UnityEngine.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\UnityEngine.UI.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\Mono.Cecil.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\Unity.DataContract.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\Temp\bin\Debug\Unity.CecilTools.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\obj\Debug\Assembly-CSharp-vs.csprojAssemblyReference.cache
+D:\programowanie_unity\MSCMody\Doors94-Project-main\obj\Debug\Assembly-CSharp-vs.csproj.CoreCompileInputs.cache
+D:\programowanie_unity\MSCMody\Doors94-Project-main\obj\Debug\Assembly-CSharp-vs.csproj.CopyComplete
+D:\programowanie_unity\MSCMody\Doors94-Project-main\obj\Debug\Assembly-CSharp.dll
+D:\programowanie_unity\MSCMody\Doors94-Project-main\obj\Debug\Assembly-CSharp.pdb

@@ -1,17 +1,21 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class OperatingSystem : MonoBehaviour 
+namespace Doors94
 {
-	public static OperatingSystem _Instance;
+	[AddComponentMenu("Doors94/MainSystems/OperatingSystem")]
+	public class OperatingSystem : MonoBehaviour
+	{
+		internal static OperatingSystem _Instance;
 
-	void Start () 
-	{
-		_Instance = this;
-	}
-	
-	void Update () 
-	{
-	
+		void Start()
+		{
+			_Instance = this;
+		}
+
+		void Update()
+		{
+
+		}
 	}
 }

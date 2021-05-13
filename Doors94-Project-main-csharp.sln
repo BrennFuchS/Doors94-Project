@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{B67598C7-FE95-ADE6-700D-DB5865CAD5A1}") = "Doors94 Project", "Assembly-CSharp-vs.csproj", "{FAE46D63-22EA-3232-36AE-1D9A6B316433}"
+Project("{43CEFA4A-9F95-F394-B355-04A6AE6F7F34}") = "Doors94-Project-main", "Assembly-CSharp-vs.csproj", "{6012DBE6-BB00-71A2-BE46-B66D5EC2B617}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FAE46D63-22EA-3232-36AE-1D9A6B316433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FAE46D63-22EA-3232-36AE-1D9A6B316433}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FAE46D63-22EA-3232-36AE-1D9A6B316433}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FAE46D63-22EA-3232-36AE-1D9A6B316433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6012DBE6-BB00-71A2-BE46-B66D5EC2B617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6012DBE6-BB00-71A2-BE46-B66D5EC2B617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6012DBE6-BB00-71A2-BE46-B66D5EC2B617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6012DBE6-BB00-71A2-BE46-B66D5EC2B617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																							GlobalSection(MonoDevelopProperties) = preSolution
+						GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

@@ -47,11 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CursorBehaviour.cs" />
-     <Compile Include="Assets\CursorCast.cs" />
-     <Compile Include="Assets\CursorInputModule.cs" />
-     <Compile Include="Assets\Debug2D.cs" />
-     <Compile Include="Assets\FormsWindow.cs" />
      <Compile Include="Assets\HideMouse.cs" />
+     <Compile Include="Assets\MikroPekkaMouse.cs" />
+     <Compile Include="Assets\ModUIDrag.cs" />
+     <Compile Include="Assets\MoveableWindow.cs" />
      <Compile Include="Assets\OperatingSystem.cs" />
      <Compile Include="Assets\Tools\MSCCar\AxisCarController.cs" />
      <Compile Include="Assets\Tools\MSCCar\Axles.cs" />
